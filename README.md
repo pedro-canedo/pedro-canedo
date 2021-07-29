@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro.
+## Olá, eu sou o Pedro.
 <div>
   <a href="https://github.com/pedrim775">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrim775&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

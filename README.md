@@ -1,4 +1,5 @@
 ## Olá, eu sou o Pedro.
+-Sou estudante no segundo período de Análise e desenvolvimento de sistemas - PUC-GO
 <div>
   <img src="https://komarev.com/ghpvc/?username=pedrim775&color=green" alt="pedrim775" /> 
   </div>

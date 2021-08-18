@@ -1,10 +1,10 @@
 ## Olá, eu sou o Pedro.
 -Sou estudante e estou no segundo período de Análise e desenvolvimento de sistemas - PUC-GO
 <div>
-  <img src="https://komarev.com/ghpvc/?username=pedrim775&color=green" alt="pedrim775" /> 
+  <img src="https://komarev.com/ghpvc/?username=pedro-canedo&color=green" alt="pedro-canedo" /> 
   </div>
 <div>
-  <a href="https://github.com/pedrim775">
+  <a href="https://github.com/pedro-canedo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrim775&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrim775&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -25,6 +25,6 @@
   <a href = "mailto:prof.pedrobalhe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedrobalhe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/pedrim775/pedrim775/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/pedro-canedo/pedro-canedo/blob/output/github-contribution-grid-snake.svg)
  
 </div>

@@ -1,6 +1,6 @@
 ## Olá, eu sou o Pedro.
 <div>
-  <img align="left" alt="Pedro-octocat" height="100" width="100" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631572653803.png"> 
+  <img align="left" alt="Pedro-octocat" height="200" width="200" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631572653803.png"> 
   </div>
 <div>
 -Sou estudante e estou no segundo período de Análise e desenvolvimento de sistemas - PUC-GO

@@ -1,4 +1,8 @@
 ## Olá, eu sou o Pedro.
+<div>
+  <img align="left" alt="Pedro-octocat" height="30" width="40" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631572653803.png"> 
+  </div>
+<div>
 -Sou estudante e estou no segundo período de Análise e desenvolvimento de sistemas - PUC-GO
 <div>
   <img src="https://komarev.com/ghpvc/?username=pedro-canedo&color=green" alt="pedro-canedo" /> 

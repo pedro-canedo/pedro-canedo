@@ -3,7 +3,7 @@
   <img align="left" alt="Pedro-octocat" height="300" width="300" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631572653803.png"> 
   <p>-Sou estudante e estou no segundo período de Análise e desenvolvimento de sistemas - PUC-GO</p>  
 </div>
-  <img align="right" src="https://komarev.com/ghpvc/?username=pedro-canedo&color=green" alt="pedro-canedo" /> 
+  <img align="left" src="https://komarev.com/ghpvc/?username=pedro-canedo&color=green" alt="pedro-canedo" /> 
   </div>
 <div>
   <a href="https://github.com/pedro-canedo">

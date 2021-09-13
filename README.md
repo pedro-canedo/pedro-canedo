@@ -1,11 +1,11 @@
 ## Olá, eu sou o Pedro.
 <div>
-  <img align="left" alt="Pedro-octocat" height="300" width="300" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631572653803.png"> 
-  <p>-Sou estudante e estou no segundo período de Análise e desenvolvimento de sistemas - PUC-GO</p>  
+  <img align="left" alt="Pedro-octocat" height="400" width="400" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631572653803.png"> 
+  <p align="justify">Sou estudante e estou no segundo período de Análise e desenvolvimento de sistemas - PUC-GO. Estou em meu segundo período dos 5 períodos propostos no programa de graduação Tecnológica. Tenho conhecimento e estudo atualmente as seguintes tecnologias, MySQL; Pyhton; JavaScrip; HTML; CSS e Java. Gosto bastante de aprender habitualmente estudo e participo de novos cursos de aprimoramento e meu foco de estudo atualmente está em tecnológias voltadas desde o back-end ao front-end.</p>  
 <div>
   <a href="https://github.com/pedro-canedo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedro-canedo&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-canedo&layout=compact&langs_count=9&theme=dark"/>
+  <img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-canedo&layout=compact&langs_count=9&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

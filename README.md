@@ -1,7 +1,8 @@
 ## Olá, eu sou o Pedro.
 <div>
   <img align="left" alt="Pedro-octocat" height="400" width="400" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631572653803.png"> 
-  <p align="justify">Sou estudante e estou no segundo período de Análise e desenvolvimento de sistemas - PUC-GO. Estou em meu segundo período dos 5 períodos propostos no programa de graduação Tecnológica. Tenho conhecimento e estudo atualmente as seguintes tecnologias, MySQL; Pyhton; JavaScrip; HTML; CSS e Java. Gosto bastante de aprender habitualmente estudo e participo de novos cursos de aprimoramento e meu foco de estudo atualmente está em tecnológias voltadas desde o back-end ao front-end.</p>  
+  <p align="justify">Olá, me chamo Pedro. Meu foco de aprendizado atualmente está em tecnológias voltadas desde o back-end ao front-end.
+Curto e estudo, C#; .Net; Net Core; Javascript; ReactJS; NodeJs; Java e Python.</p>  
 <div>
   <a href="https://github.com/pedro-canedo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedro-canedo&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>

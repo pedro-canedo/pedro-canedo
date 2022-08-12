@@ -1,7 +1,7 @@
 ## Olá, eu sou o Pedro.
 <div>
   <img align="left" alt="Pedro-octocat" height="400" width="400" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631572653803.png"> 
-  <p align="justify">
+  <p align="right">
   Desenvolvedor de software com abrangência de back end e front end.
 
 Atuo diretamente com um time ágil e usamos o Scrum para nos organizarmos.

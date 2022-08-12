@@ -1,8 +1,43 @@
 ## Olá, eu sou o Pedro.
 <div>
   <img align="left" alt="Pedro-octocat" height="400" width="400" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631572653803.png"> 
-  <p align="justify">Olá, me chamo Pedro. Meu foco de aprendizado atualmente está em tecnológias voltadas desde o back-end ao front-end.
-Curto e estudo, C#; .Net; Net Core; Javascript; ReactJS; NodeJs; Java e Python.</p>  
+  <p align="justify">
+  Desenvolvedor de software com abrangência de back end e front end.
+
+Atuo diretamente com um time ágil e usamos o Scrum para nos organizarmos.
+
+TDD faz parte do meu dia a dia e curto demais um Clean Code.
+
+Sou extremamente dedicado em conhecer a cada dia mais sobre arquiteturas e design patterns atualmente focado em DDD e Event-driven Architecture
+
+
+Linguagens de programação que trabalho.
+- C# .Net Core; 
+-Python;
+-React Js;
+-Node Js;
+
+No meu dia a dia faço uso das seguintes ferramentas de infraestrutura e de cloud.
+-Azure DevOps;
+-Docker;
+Apache Kafka;
+Azure Event Hub;
+-PostgreSQL;
+-SQL Server;
+Datalake Stored Gen2.
+
+conhecimento e experiência nas seguintes bibliotecas de framework's.
+
+Entity Framework;
+Fast api;
+Django;
+Material Ui;
+Pandas;
+sqlalchemy;
+Serenity;
+React Redux;
+Metodologia ágil: Scrum.
+  </p>  
 <div>
   <a href="https://github.com/pedro-canedo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedro-canedo&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>

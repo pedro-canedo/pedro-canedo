@@ -30,7 +30,7 @@ Serenity;
 React Redux;
 Metodologia ágil: Scrum.
   </p>  
-<div style="display: inline_block" align="center">
+<div style="display: inline_block" align="justify">
   <a href="https://github.com/pedro-canedo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedro-canedo&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-canedo&layout=compact&langs_count=9&theme=dark"/>

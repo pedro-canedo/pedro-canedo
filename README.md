@@ -2,33 +2,17 @@
 <div>
   <img align="left" alt="Pedro-octocat" height="400" width="400" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631572653803.png"> 
   <p align="center">
-  Desenvolvedor de software com abrangência de back end e front end.
-Atuo diretamente com um time ágil e usamos o Scrum para nos organizarmos.
-TDD faz parte do meu dia a dia e curto demais um Clean Code.
-Sou extremamente dedicado em conhecer a cada dia mais sobre arquiteturas e design patterns atualmente focado em DDD e Event-driven Architecture
-Linguagens de programação que trabalho.
-- C# .Net Core; 
--Python;
--React Js;
--Node Js;
-No meu dia a dia faço uso das seguintes ferramentas de infraestrutura e de cloud.
--Azure DevOps;
--Docker;
-Apache Kafka;
-Azure Event Hub;
--PostgreSQL;
--SQL Server;
-Datalake Stored Gen2.
-conhecimento e experiência nas seguintes bibliotecas de framework's
-Entity Framework;
-Fast api;
-Django;
-Material Ui;
-Pandas;
-sqlalchemy;
-Serenity;
-React Redux;
-Metodologia ágil: Scrum.
+  Olá, meu nome é Pedro Augusto e sou um desenvolvedor de software com experiência em Front-end, Back-end e DevOps. Atualmente, trabalho diretamente com um time ágil que utiliza o Scrum como metodologia de organização. Sou um entusiasta de TDD e adoro trabalhar com Clean Code.
+
+Me dedico diariamente a conhecer mais sobre arquiteturas e design patterns, e atualmente estou focado em DDD e Event-driven Architecture. Acredito que é importante manter-se atualizado e sempre procurar aprender mais para oferecer soluções cada vez mais eficientes e inovadoras.
+
+Tenho experiência em diversas linguagens de programação, incluindo C# .Net Core, Python, React Js e Node Js, e também utilizo uma variedade de ferramentas de infraestrutura e cloud, como Azure DevOps, Docker, Kubernetes, Apache Kafka, Azure Event Hub, PostgreSQL, SQL Server e Datalake Stored Gen2.
+
+Trabalhei com diversas bibliotecas de framework's, incluindo Entity Framework, Fast api, Django, Material Ui, Pandas, sqlalchemy, Serenity e React Redux. Tenho conhecimento sólido em Metodologia ágil, especialmente em Scrum.
+
+Estou sempre buscando novos desafios e oportunidades para aprender e crescer profissionalmente. Acredito que minha dedicação, habilidades técnicas e conhecimento em metodologias ágeis podem ser um grande diferencial em equipes de desenvolvimento de software.
+
+Ficarei muito feliz em conectar com outros profissionais da área e explorar novas oportunidades. Se você estiver interessado em me conhecer melhor ou em saber mais sobre meu trabalho, por favor, não hesite em entrar em contato!
   </p>  
 <div style="display: inline_block" >
   <a href="https://github.com/pedro-canedo">

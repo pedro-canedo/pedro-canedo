@@ -1,6 +1,6 @@
 ## Olá, eu sou o Pedro.
 <div>
-  |<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
+  |<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">|
   |----------|
  
   

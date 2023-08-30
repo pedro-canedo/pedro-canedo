@@ -25,10 +25,10 @@
  ## Skills:
 | Front | Back | Infra |
 |----------|---------|-----------|
-|![Base](https://skillicons.dev/icons?i=js,ts,react,redux,materialui&perline=3) |![Base](https://skillicons.dev/icons?i=python,nodejs,cs,fastapi,ts,express,dotnet&perline=3)  |![Base](https://skillicons.dev/icons?i=linux,azure,docker,kubernetes,heroku)   |                     
+|![Base](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,laravel,materialui&perline=3) |![Base](https://skillicons.dev/icons?i=python,nodejs,cs,fastapi,ts,redis,express,dotnet&perline=3)  |![Base](https://skillicons.dev/icons?i=linux,azure,docker,kubernetes,git)   |                     
   
-### Currently Studying:
-![My Skills](https://skillicons.dev/icons?i=php,mongo,aws,cs)
+### Atualmente Estudando:
+![My Skills](https://skillicons.dev/icons?i=php,tensorflow,aws)
   
 That's it.
     

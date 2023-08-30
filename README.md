@@ -28,7 +28,7 @@
 |![Base](https://skillicons.dev/icons?i=js,ts,react,redux,materialui&perline=3) |![Base](https://skillicons.dev/icons?i=python,nodejs,cs,fastapi,ts,express,dotnet&perline=3)  |![Base](https://skillicons.dev/icons?i=linux,azure,docker,kubernetes,heroku)   |                     
   
 ### Currently Studying:
-![My Skills](https://skillicons.dev/icons?i=java,go,mongo,aws,c,cpp)
+![My Skills](https://skillicons.dev/icons?i=php,mongo,aws,cs)
   
 That's it.
     

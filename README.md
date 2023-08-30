@@ -1,5 +1,4 @@
 ## Olá, eu sou o Pedro.
-## Olá, eu sou o Pedro.
 <div>
   <img align="left" alt="Pedro-octocat" height="400" width="400" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631572653803.png"> 
   <p align="center">
@@ -19,29 +18,11 @@
   <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
   </p>  
 </div>
-<div style="display: inline_block" >
-  <a href="https://github.com/pedro-canedo">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pedro-canedo&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-canedo&layout=compact&langs_count=9&theme=dark"/>
-</div>
-
 <div style="display: inline_block">
   <a href="https://github.com/pedro-canedo">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pedro-canedo&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-canedo&layout=compact&langs_count=9&theme=dark"/>
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Pedro-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Pedro-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
-
 
 <div> 
   <a href="https://www.instagram.com/pedr0balhe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

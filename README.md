@@ -32,6 +32,17 @@
   <a href="https://www.linkedin.com/in/pedrobalhe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<div>
+  <p>
+    
+  </p>
+</div>
+<div style="display: inline_block">
+  <a href="https://github.com/pedro-canedo">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pedro-canedo&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-canedo&layout=compact&langs_count=9&theme=dark"/>
+</div>
+
 <!-- Adicionando um CTA -->
 <div align="center">
   <h3>🌟 Gostou do que viu? Dê uma estrela em meus repositórios e siga-me para mais! 🌟</h3>

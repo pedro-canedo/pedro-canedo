@@ -22,50 +22,15 @@
 
 ### Divirto-me muito com estas Tecnologias 🔧
     
-  <table>
-      <tr>
-        <td align="center">
-          <img alt="Python" src="[https://media.giphy.com/media/2wZ8x7lTdY2ZD7qido/giphy.gif](https://flat-icons.com/downloads/animated-animal-icon-set/)" width="100">
-          <br>Python
-        </td>
-        <td align="center">
-          <img alt="C#" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100">
-          <br>C#
-        </td>
-        <td align="center">
-          <img alt="JavaScript" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100">
-          <br>JavaScript
-        </td>
-        <td align="center">
-          <img alt="Docker" src="https://media.giphy.com/media/3oEhmKbNQyGAdEV7fO/giphy.gif" width="100">
-          <br>Docker
-        </td>
-        <td align="center">
-          <img alt="Kubernetes" src="https://media.giphy.com/media/4N1FZFE5AGO3qrug/giphy.gif" width="100">
-          <br>Kubernetes
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img alt="PostgreSQL" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100">
-          <br>PostgreSQL
-        </td>
-        <td align="center">
-          <img alt="HTML5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
-          <br>HTML5
-        </td>
-        <td align="center">
-          <img alt="CSS3" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
-          <br>CSS3
-        </td>
-        <td align="center">
-          <!-- Adicione mais GIFs conforme necessário -->
-        </td>
-        <td align="center">
-          <!-- Adicione mais GIFs conforme necessário -->
-        </td>
-      </tr>
-    </table>
+ ## Skills:
+| Front | Back | Infra |
+|----------|---------|-----------|
+|![Base](https://skillicons.dev/icons?i=js,ts,react,redux,materialui&perline=3) |![Base](https://skillicons.dev/icons?i=python,nodejs,cs,fastapi,ts,express,dotnet&perline=3)  |![Base](https://skillicons.dev/icons?i=linux,azure,docker,kubernetes,heroku)   |                     
+  
+### Currently Studying:
+![My Skills](https://skillicons.dev/icons?i=java,go,mongo,aws,c,cpp)
+  
+That's it.
     
   </div>
 

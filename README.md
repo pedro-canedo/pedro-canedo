@@ -1,10 +1,10 @@
 ## Olá, eu sou o Pedro.
 <div>
-  |![Base]<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">|
+<!--   |![Base]<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">| -->
    ## Skills:
 | EAT | SLEEP | CODE | REPEAT |
 |----------|---------|-----------|-----------|
-|![Base](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,laravel,materialui&perline=3) |![Base](https://skillicons.dev/icons?i=python,nodejs,cs,fastapi,ts,redis,express,dotnet&perline=3)  |![Base](https://skillicons.dev/icons?i=linux,azure,docker,kubernetes,git)   |   ![Base](https://skillicons.dev/icons?i=linux,azure,docker,kubernetes,git)   |
+|![Base]() |![Base]()  |![Base](t)   |   ![Base]()   |
  
   
   <p align="center">

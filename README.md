@@ -25,7 +25,7 @@
   <table>
       <tr>
         <td align="center">
-          <img alt="Python" src="https://media.giphy.com/media/2wZ8x7lTdY2ZD7qido/giphy.gif" width="100">
+          <img alt="Python" src="[https://media.giphy.com/media/2wZ8x7lTdY2ZD7qido/giphy.gif](https://flat-icons.com/downloads/animated-animal-icon-set/)" width="100">
           <br>Python
         </td>
         <td align="center">

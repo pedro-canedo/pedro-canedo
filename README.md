@@ -1,6 +1,7 @@
 ## Olá, eu sou o Pedro.
 <div>
-  <img align="left" alt="Pedro-octocat" height="400" width="400" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631572653803.png"> 
+  <!-- Adicionando um GIF de codificação -->
+  <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
   <p align="center">
     Olá, meu nome é Pedro Augusto e sou um desenvolvedor de software com experiência em Front-end, Back-end e DevOps. Atualmente, trabalho diretamente com um time ágil que utiliza o Scrum como metodologia de organização. Sou um entusiasta de TDD e adoro trabalhar com Clean Code.
   
@@ -13,9 +14,6 @@
   Estou sempre buscando novos desafios e oportunidades para aprender e crescer profissionalmente. Acredito que minha dedicação, habilidades técnicas e conhecimento em metodologias ágeis podem ser um grande diferencial em equipes de desenvolvimento de software.
   
   Ficarei muito feliz em conectar com outros profissionais da área e explorar novas oportunidades. Se você estiver interessado em me conhecer melhor ou em saber mais sobre meu trabalho, por favor, não hesite em entrar em contato!
-
-  <!-- Adicionando um GIF de codificação -->
-  <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
   </p>
 
 <div align="center">

@@ -17,7 +17,7 @@
   <!-- Adicionando um GIF de codificação -->
   <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
   </p>
-  <div>
+
     <div align="center">
 
         ### Divirto-me muito com estas Tecnologias 🔧
@@ -69,7 +69,7 @@
         
         </div>
 
-  </div>
+
   <div>
     <div style="display: inline_block"><br>
       <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

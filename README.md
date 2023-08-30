@@ -1,9 +1,19 @@
 ## Olá, eu sou o Pedro.
 <div>
-  <!-- Adicionando um GIF de codificação -->
+  | <!-- Adicionando um GIF de codificação -->
   <p lign="center">
     <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
   </p>
+  |
+  <p>
+    
+  </p>
+  |
+  <p>
+    
+  </p>
+  |----------|---------|-----------|
+ 
   
   <p align="center">
     Olá, meu nome é Pedro Augusto e sou um desenvolvedor de software com experiência em Front-end, Back-end e DevOps. Atualmente, trabalho diretamente com um time ágil que utiliza o Scrum como metodologia de organização. Sou um entusiasta de TDD e adoro trabalhar com Clean Code.

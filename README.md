@@ -1,6 +1,6 @@
 ## Olá, eu sou o Pedro.
 | EAT | SLEEP | CODE | REPEAT |
-|----------|---------|-----------|-----------|
+|----------|---------|-----------|----------|
 |![Base](https://media1.giphy.com/media/3o85xuMR2RRw0HkocE/giphy.gif?cid=ecf05e47dizxbh3rxc75owwiqbrttofa9ry34y7x0ie3fmef&ep=v1_gifs_search&rid=giphy.gif&ct=g) |
 ![Base](https://media.tenor.com/TNuCg_xYOTgAAAAC/south-park-eric-cartman.gif) |
 ![Base](https://i.pinimg.com/originals/e4/46/c6/e446c6cc67880c066cc0358e77a0cdfd.gif) |

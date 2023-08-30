@@ -1,9 +1,10 @@
 ## Olá, eu sou o Pedro.
-<div>
-<!--   |![Base]<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">| -->
 | EAT | SLEEP | CODE | REPEAT |
 |----------|---------|-----------|-----------|
 |![Base]() |![Base]()  |![Base](t)   |   ![Base]()   |
+<div>
+<!--   |![Base]<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">| -->
+
  
   
   <p align="center">

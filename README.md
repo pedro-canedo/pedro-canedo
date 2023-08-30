@@ -1,8 +1,8 @@
 ## Olá, eu sou o Pedro.
 | EAT | SLEEP | CODE | REPEAT |
 |----------|---------|-----------|-----------|
-|![Base](https://media1.giphy.com/media/3o85xuMR2RRw0HkocE/giphy.gif?cid=ecf05e47dizxbh3rxc75owwiqbrttofa9ry34y7x0ie3fmef&ep=v1_gifs_search&rid=giphy.gif&ct=g&width="100") 
-|![Base]()  |![Base](t)   |   ![Base]()   |
+|![Base](https://media1.giphy.com/media/3o85xuMR2RRw0HkocE/giphy.gif?cid=ecf05e47dizxbh3rxc75owwiqbrttofa9ry34y7x0ie3fmef&ep=v1_gifs_search&rid=giphy.gif&ct=g) 
+|![Base](https://media.tenor.com/TNuCg_xYOTgAAAAC/south-park-eric-cartman.gif)  |![Base](t)   |   ![Base]()   |
 <div>
 <!--   |![Base]<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">| -->
 
@@ -29,7 +29,7 @@
  ## Skills:
 | Front | Back | Infra |
 |----------|---------|-----------|
-|![Base](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,laravel,materialui&perline=3) |![Base](https://skillicons.dev/icons?i=python,nodejs,cs,fastapi,ts,redis,express,dotnet&perline=3)  |![Base](https://skillicons.dev/icons?i=linux,azure,docker,kubernetes,git)   |                     
+|![Base](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,materialui&perline=3) |![Base](https://skillicons.dev/icons?i=python,nodejs,cs,fastapi,ts,redis,express,dotnet,laravel&perline=3)  |![Base](https://skillicons.dev/icons?i=linux,azure,docker,kubernetes,git)   |                     
   
 ### Atualmente Estudando:
 ![My Skills](https://skillicons.dev/icons?i=php,tensorflow,aws)

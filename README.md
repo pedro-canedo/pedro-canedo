@@ -6,6 +6,14 @@
 ![Base](https://i.pinimg.com/originals/e4/46/c6/e446c6cc67880c066cc0358e77a0cdfd.gif) |
 ![Base](https://media.tenor.com/eXlpFuilqucAAAAC/neverending-sunglasses.gif) |
 
+
+## Olá, eu sou o Pedro.
+
+| EAT | SLEEP | CODE | REPEAT |
+|-----|-------|------|--------|
+| <img src="https://media1.giphy.com/media/3o85xuMR2RRw0HkocE/giphy.gif?cid=ecf05e47dizxbh3rxc75owwiqbrttofa9ry34y7x0ie3fmef&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"> | <img src="https://media.tenor.com/TNuCg_xYOTgAAAAC/south-park-eric-cartman.gif" width="100"> | <img src="https://i.pinimg.com/originals/e4/46/c6/e446c6cc67880c066cc0358e77a0cdfd.gif" width="100"> | <img src="https://media.tenor.com/eXlpFuilqucAAAAC/neverending-sunglasses.gif" width="100"> |
+
+
 <div>
 <!--   |![Base]<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">| -->
 

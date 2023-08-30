@@ -3,8 +3,7 @@
 |----------|---------|-----------|----------|
 |![Base](https://media1.giphy.com/media/3o85xuMR2RRw0HkocE/giphy.gif?cid=ecf05e47dizxbh3rxc75owwiqbrttofa9ry34y7x0ie3fmef&ep=v1_gifs_search&rid=giphy.gif&ct=g) |
 ![Base](https://media.tenor.com/TNuCg_xYOTgAAAAC/south-park-eric-cartman.gif) |
-![Base](https://i.pinimg.com/originals/e4/46/c6/e446c6cc67880c066cc0358e77a0cdfd.gif) |
-![Base](https://super.abril.com.br/wp-content/uploads/2019/09/bh_accretiondisk_sim_stationary_websize.gif?w=1024)   |
+![Base](https://i.pinimg.com/originals/e4/46/c6/e446c6cc67880c066cc0358e77a0cdfd.gif) |![Base](https://super.abril.com.br/wp-content/uploads/2019/09/bh_accretiondisk_sim_stationary_websize.gif?w=1024) |
 
 <div>
 <!--   |![Base]<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">| -->

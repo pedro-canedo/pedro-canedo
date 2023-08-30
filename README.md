@@ -1,7 +1,7 @@
 ## Olá, eu sou o Pedro.
 | EAT | SLEEP | CODE | REPEAT |
 |----------|---------|-----------|-----------|
-|![Base](<img align="center" src="https://media1.giphy.com/media/3o85xuMR2RRw0HkocE/giphy.gif?cid=ecf05e47dizxbh3rxc75owwiqbrttofa9ry34y7x0ie3fmef&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"> ) |![Base]()  |![Base](t)   |   ![Base]()   |
+|![Base](<img align="center" src="https://media1.giphy.com/media/3o85xuMR2RRw0HkocE/giphy.gif?cid=ecf05e47dizxbh3rxc75owwiqbrttofa9ry34y7x0ie3fmef&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"> ) |![Base]()  |![Base](t)   |   ![Base]()   |
 <div>
 <!--   |![Base]<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">| -->
 

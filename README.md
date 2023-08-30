@@ -1,9 +1,7 @@
 ## Olá, eu sou o Pedro.
 <div>
-  | <!-- Adicionando um GIF de codificação -->
-  <p lign="center">
-    <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
-  </p>
+  |<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
+
   |
   <p>
     

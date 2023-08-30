@@ -29,8 +29,6 @@
   
 ### Atualmente Estudando:
 ![My Skills](https://skillicons.dev/icons?i=php,tensorflow,aws)
-  
-That's it.
     
   </div>
 

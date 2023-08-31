@@ -1,10 +1,6 @@
 
-<p align="center">
-   ## Às vezes faço o que quero. Às vezes faço o que tenho que fazer
-</p>
-<p align="center">
-   ## Sometimes I do what I want. Sometimes I do what I have to.
-</p>
+# Às vezes faço o que quero. Às vezes faço o que tenho que fazer | Sometimes I do what I want. Sometimes I do what I have to.
+
 
 
 
@@ -20,20 +16,17 @@
  
   
   <p align="center">
-   
-   Português:
+     Português:
    
    <p>
-   Sou Pedro Augusto, desenvolvedor com experiência em C# .Net Core, Python, React Js e Node Js. Proficiente em arquiteturas DDD e Event-driven, utilizo ferramentas como Azure DevOps, Docker, Kubernetes, e bancos de dados como PostgreSQL e SQL Server. Tenho        
-     conhecimento   em frameworks como Entity Framework, Fast api e React Redux. Busco sempre novos desafios e oportunidades para crescimento técnico.    
+      Sou Pedro Augusto, desenvolvedor com experiência em C# .Net Core, Python, React Js e Node Js. Proficiente em arquiteturas DDD e Event-driven, utilizo ferramentas como Azure DevOps, Docker, Kubernetes, e bancos de dados como PostgreSQL e SQL Server. Tenho conhecimento   em frameworks como Entity Framework, Fast api e React Redux. Busco sempre novos desafios e oportunidades para crescimento técnico.    
    </p>
    
    
    English:
    
    <p>
-    I'm Pedro Augusto, a developer experienced in C# .Net Core, Python, React Js, and Node Js. Proficient in DDD and Event-driven architectures, I use tools like Azure DevOps, Docker, Kubernetes, and databases such as PostgreSQL and SQL Server. I'm knowledgeable in    
-     frameworks like Entity Framework, Fast api, and React Redux. I'm always looking for new challenges and opportunities for technical growth.
+      I'm Pedro Augusto, a developer experienced in C# .Net Core, Python, React Js, and Node Js. Proficient in DDD and Event-driven architectures, I use tools like Azure DevOps, Docker, Kubernetes, and databases such as          PostgreSQL and SQL Server. I'm knowledgeable in frameworks like Entity Framework, Fast api, and React Redux. I'm always looking for new challenges and opportunities for technical growth.
    </p>
 
   </p>
@@ -50,15 +43,7 @@
 ### Atualmente Estudando:
 ![My Skills](https://skillicons.dev/icons?i=php,tensorflow,aws)
     
-  </div>
 
-  </div>
-</div>
-<div>
-  <p>
-    
-  </p>
-  </div>
 <div> 
   <a href="https://www.instagram.com/pedr0balhe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/ellaotv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -67,11 +52,7 @@
   <a href="https://www.linkedin.com/in/pedrobalhe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
-  <p>
-    
-  </p>
-</div>
+
 <div style="display: inline_block">
   <a href="https://github.com/pedro-canedo">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pedro-canedo&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>

@@ -1,5 +1,5 @@
 
-# Às vezes faço o que quero. Às vezes faço o que tenho que fazer | Sometimes I do what I want. Sometimes I do what I have to.
+# Às vezes faço o que quero. Às vezes faço o que tenho que fazer.  Sometimes I do what I want. Sometimes I do what I have to.
 
 
 

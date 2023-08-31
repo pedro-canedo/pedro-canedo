@@ -1,4 +1,13 @@
-## Os sonhos morrem na espera, não na tentativa.
+<di>
+  <p align="center">
+   ## "Às vezes faço o que quero. Às vezes faço o que tenho que fazer"
+  </p>
+  <p align="center">
+   ## "Sometimes I do what I want. Sometimes I do what I have to."
+  </p>
+
+</di>
+
 
 | EAT | SLEEP | CODE | REPEAT |
 |-----|-------|------|--------|

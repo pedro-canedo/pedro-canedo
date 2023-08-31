@@ -31,7 +31,7 @@
 
 <div align="center">
 
-### Divirto-me muito com estas Tecnologias 🔧
+### Divirto-me muito com estas Tecnologias (I have a lot of fun with these technologies.) 🔧
     
  ## Skills:
 | Front | Back | Infra |
@@ -72,4 +72,5 @@
 <!-- Adicionando um CTA -->
 <div align="center">
   <h3>🌟 Gostou do que viu? Dê uma estrela em meus repositórios e siga-me para mais! 🌟</h3>
+  <h3>🌟 Liked what you saw? Star my repositories and follow me for more! 🌟</h3>
 </div>

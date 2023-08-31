@@ -1,10 +1,10 @@
 <di>
-  <p align="center">
+<!--   <p align="center"> -->
    ## "Às vezes faço o que quero. Às vezes faço o que tenho que fazer"
-  </p>
-  <p align="center">
+<!--   </p> -->
+<!--   <p align="center"> -->
    ## "Sometimes I do what I want. Sometimes I do what I have to."
-  </p>
+<!--   </p> -->
 
 </di>
 

@@ -28,10 +28,9 @@
    
    <p align="center">
        English:
-       I'm Pedro Augusto, a developer experienced in C# .Net Core, Python, React Js, and Node Js. Proficient in DDD and Event-driven architectures, I use tools like Azure DevOps, Docker, Kubernetes, and databases such as          PostgreSQL and SQL Server. I'm knowledgeable in frameworks like Entity Framework, Fast api, and React Redux. I'm always looking for new challenges and opportunities for technical growth.
-   </p>
-
-  </p>
+       <p>
+           I'm Pedro Augusto, a developer experienced in C# .Net Core, Python, React Js, and Node Js. Proficient in DDD and Event-driven architectures, I use tools like Azure DevOps, Docker, Kubernetes, and databases such as          PostgreSQL and SQL Server. I'm knowledgeable in frameworks like Entity Framework, Fast api, and React Redux. I'm always looking for new challenges and opportunities for technical growth.
+       </p>
 
 <div align="center">
 

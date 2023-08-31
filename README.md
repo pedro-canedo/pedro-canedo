@@ -11,17 +11,11 @@
  
   
   <p align="center">
-    Olá, meu nome é Pedro Augusto e sou um desenvolvedor de software com experiência em Front-end, Back-end e DevOps. Atualmente, trabalho diretamente com um time ágil que utiliza o Scrum como metodologia de organização. Sou um entusiasta de TDD e adoro trabalhar com Clean Code.
-  
-  Me dedico diariamente a conhecer mais sobre arquiteturas e design patterns, e atualmente estou focado em DDD e Event-driven Architecture. Acredito que é importante manter-se atualizado e sempre procurar aprender mais para oferecer soluções cada vez mais eficientes e inovadoras.
-  
-  Tenho experiência em diversas linguagens de programação, incluindo C# .Net Core, Python, React Js e Node Js, e também utilizo uma variedade de ferramentas de infraestrutura e cloud, como Azure DevOps, Docker, Kubernetes, Apache Kafka, Azure Event Hub, PostgreSQL, SQL Server e Datalake Stored Gen2.
-  
-  Trabalhei com diversas bibliotecas de framework's, incluindo Entity Framework, Fast api, Django, Material Ui, Pandas, sqlalchemy, Serenity e React Redux. Tenho conhecimento sólido em Metodologia ágil, especialmente em Scrum.
-  
-  Estou sempre buscando novos desafios e oportunidades para aprender e crescer profissionalmente. Acredito que minha dedicação, habilidades técnicas e conhecimento em metodologias ágeis podem ser um grande diferencial em equipes de desenvolvimento de software.
-  
-  Ficarei muito feliz em conectar com outros profissionais da área e explorar novas oportunidades. Se você estiver interessado em me conhecer melhor ou em saber mais sobre meu trabalho, por favor, não hesite em entrar em contato!
+   Português:
+Sou Pedro Augusto, desenvolvedor com experiência em C# .Net Core, Python, React Js e Node Js. Proficiente em arquiteturas DDD e Event-driven, utilizo ferramentas como Azure DevOps, Docker, Kubernetes, e bancos de dados como PostgreSQL e SQL Server. Tenho conhecimento em frameworks como Entity Framework, Fast api e React Redux. Busco sempre novos desafios e oportunidades para crescimento técnico.
+
+English:
+I'm Pedro Augusto, a developer experienced in C# .Net Core, Python, React Js, and Node Js. Proficient in DDD and Event-driven architectures, I use tools like Azure DevOps, Docker, Kubernetes, and databases such as PostgreSQL and SQL Server. I'm knowledgeable in frameworks like Entity Framework, Fast api, and React Redux. I'm always looking for new challenges and opportunities for technical growth.
   </p>
 
 <div align="center">
@@ -68,7 +62,3 @@
 <div align="center">
   <h3>🌟 Gostou do que viu? Dê uma estrela em meus repositórios e siga-me para mais! 🌟</h3>
 </div>
-
-<!-- Animação da cobra -->
-![Snake animation](https://github.com/pedro-canedo/pedro-canedo/blob/output/github-contribution-grid-snake.svg)
- 

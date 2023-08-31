@@ -5,7 +5,7 @@
 
 
 <div align="center">
-   ## Rotina 😌📅🔄 | Routine 😌📅🔄
+   ## Rotina 😌📅🔄 | Routine 😌📅🔄.
    
    | EAT | SLEEP | CODE | REPEAT |
    |-----|-------|------|--------|

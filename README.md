@@ -44,6 +44,8 @@
 ### Atualmente Estudando:
 ![My Skills](https://skillicons.dev/icons?i=php,tensorflow,aws)
     
+![Seus Gráficos do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true)
+
 
 <div> 
   <a href="https://www.instagram.com/pedr0balhe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

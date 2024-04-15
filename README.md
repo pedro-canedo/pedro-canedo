@@ -45,6 +45,7 @@
 ![My Skills](https://skillicons.dev/icons?i=php,tensorflow,aws)
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=pedro-canedo)
+![GitHub](https://github-readme-stats.vercel.app/api?username=pedro-canedo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pedro-canedo/github-readme-stats#gh-dark-mode-only)
 
 
 <div> 

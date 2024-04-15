@@ -43,8 +43,8 @@
   
 ### Atualmente Estudando:
 ![My Skills](https://skillicons.dev/icons?i=php,tensorflow,aws)
-    
-![GitHub](https://github-readme-stats.vercel.app/api?username=pedro-canedo&show_icons=true)
+
+![GitHub](https://github-readme-stats.vercel.app/api?username=pedro-canedo)
 
 
 <div> 

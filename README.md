@@ -44,8 +44,6 @@
 ### Atualmente Estudando:
 ![My Skills](https://skillicons.dev/icons?i=php,tensorflow,aws)
 
-![GitHub](https://github-readme-stats.vercel.app/api?username=pedro-canedo&show_icons=true&theme=dark#gh-dark-mode-only)
-
 
 <div> 
   <a href="https://www.instagram.com/pedr0balhe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

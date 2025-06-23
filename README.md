@@ -1,19 +1,55 @@
 # Pedro Augusto Canedo Araujo Obalhe  
-**Tech Lead | Sênior Software Engineer | DevOps Engineer**
+**Tech Lead | Senior Software Engineer | DevOps Engineer**
 
-Às vezes faço o que quero. Às vezes faço o que tenho que fazer.  
-Sometimes I do what I want. Sometimes I do what I have to.
+> *Às vezes faço o que quero. Às vezes faço o que tenho que fazer.*  
+> *Sometimes I do what I want. Sometimes I do what I have to.*
+
+Welcome to my GitHub! I'm a passionate coder who thrives on building robust solutions, leading teams, and automating the chaos away. My life? A loop of **EAT, SLEEP, CODE, REPEAT**—with a sprinkle of creativity and coffee! ☕
 
 <div align="center">
-  (Rotina 😌📅🔄 | Routine 😌📅🔄)
-  
-  | EAT | SLEEP | CODE | REPEAT |
-  |-----|-------|------|--------|
-  | <img src="https://media1.giphy.com/media/3o85xuMR2RRw0HkocE/giphy.gif?cid=ecf05e47dizxbh3rxc75owwiqbrttofa9ry34y7x0ie3fmef&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"> | <img src="https://media.tenor.com/TNuCg_xYOTgAAAAC/south-park-eric-cartman.gif" width="100"> | <img src="https://i.pinimg.com/originals/e4/46/c6/e446c6cc67880c066cc0358e77a0cdfd.gif" width="100"> | <img src="https://media.tenor.com/eXlpFuilqucAAAAC/neverending-sunglasses.gif" width="100"> |
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Coding GIF"/>
 </div>
 
+---
 
-## Contatos
+## 🛠️ My Tech Stack
+
+I wield a versatile arsenal of tools and technologies to craft scalable systems and streamline workflows. Here's what I bring to the table:
+
+| **Category**          | **Tools & Tech**                                                                 |
+|-----------------------|---------------------------------------------------------------------------------|
+| **Languages**         | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) |
+| **Frameworks**        | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| **DevOps**            | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
+| **Databases**         | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47DAFB5?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1%26style=flatColor=blue) |
+| **Cloud**             | ![AWS](https://img.shields.io/badge/AWS-4285FF9900?style=flat&logo=amazon-aws&utm_medium=badge) ![Google](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white) |
+
+---
+
+## 🚀 What I Do
+
+- **Lead Teams**: Guide developers to deliver high-quality code with a focus on collaboration and innovation.
+- **Build Systems**: Architect scalable web applications and APIs, and microservices with clean code principles.
+- **Automate Everything**: Streamline CI/CD pipelines and infrastructure with DevOps magic.
+- **Solve Problems**: Tackle complex challenges with a mix of creativity and technical expertise.
+
+---
+
+## 🎨 My Routine
+
+The rhythm of my life, captured in four simple steps:
+
+| EAT | SLEEP | CODE | REPEAT |
+|-----|-------|------|--------|
+| <img src="https://media1.giphy.com/media/3o85xuMR2RRw0HkocE/giphy.gif" width="150" alt="Eat GIF"/> | <img src="https://media.tenor.com/TNuCg_xYOTg.gif" width="150" alt="Sleep GIF"/> | <img src="https://i.pinimg.com/originals/e4/46/c6/e446c6cc67880c066cc0358e77a0cdfd.gif" width="150" alt="Code GIF"/> | <img src="https://media.tenor.com/eXlpFuilqucAAAAC/neverending-sunglasses.gif" width="150" alt="Repeat GIF"/> |
+
+---
+
+
+
+## 📬 Connect with Me
+
+I'm always up for a chat about tech, gaming, or just to share a good meme. Reach out via:
 
 <div align="center">
   <a href="https://www.instagram.com/pedr0balhe/" target="_blank">
@@ -33,6 +69,21 @@ Sometimes I do what I want. Sometimes I do what I have to.
   </a>
 </div>
 
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <h3>🌟 Gostou do que viu? Dê uma estrela em meus repositórios e siga-me para mais! 🌟</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrobalhe&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobalhe&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+## ✨ Let's Make Something Awesome!
+
+Got an idea for a project? Want to discuss the latest in DevOps or share a coding tip? Drop me a message or star my repos to show some love! Let's keep the loop going: **EAT, SLEEP, CODE, REPEAT**!
+
+<div align="center">
+  <img src="https://img.shields.io/github/stars/pedrobalhe?style=social" alt="GitHub Stars"/>
 </div>

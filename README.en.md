@@ -6,8 +6,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-> _"Às vezes faço o que quero. Às vezes faço o que tenho que fazer."_  
-> _"Sometimes I do what I want. Sometimes I do what I have to do."_
+> _"Sometimes I do what I want. Sometimes I do what I have to do."_  
+> _"Às vezes faço o que quero. Às vezes faço o que tenho que fazer."_
 
 </div>
 
@@ -23,19 +23,19 @@
 
 ---
 
-## 🌟 Sobre Mim
+## 🌟 About Me
 
-Tech Lead e DevOps Engineer com experiência em arquitetura de sistemas, liderança de equipes e automação de processos. Trabalho principalmente com Python, JavaScript/TypeScript e Go, focando em soluções backend, cloud infrastructure e análise de dados.
+Tech Lead and DevOps Engineer with experience in systems architecture, team leadership, and process automation. I work primarily with Python, JavaScript/TypeScript, and Go, focusing on backend solutions, cloud infrastructure, and data analysis.
 
-Atuo desenvolvendo sistemas escaláveis, implementando pipelines de CI/CD e otimizando workflows de desenvolvimento. Experiência prática com Azure, Docker, Kubernetes e ferramentas de observabilidade.
+I develop scalable systems, implement CI/CD pipelines, and optimize development workflows. Hands-on experience with Azure, Docker, Kubernetes, and observability tools.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Linguagens & Frameworks
+### 💻 Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -66,7 +66,7 @@ Atuo desenvolvendo sistemas escaláveis, implementando pipelines de CI/CD e otim
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🔧 Ferramentas & Outros
+### 🔧 Tools & More
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -78,55 +78,55 @@ Atuo desenvolvendo sistemas escaláveis, implementando pipelines de CI/CD e otim
 
 ---
 
-## 🚀 O Que Eu Faço
+## 🚀 What I Do
 
 <div align="center">
 
-| 💡 **Área**             | 🎯 **Expertise**                                                                             |
-| ----------------------- | -------------------------------------------------------------------------------------------- |
-| **🎓 Liderança**        | Guio times de desenvolvimento com foco em qualidade, colaboração e entrega contínua de valor |
-| **🏗️ Arquitetura**      | Projeto sistemas escaláveis: microservices, APIs RESTful, aplicações web modernas            |
-| **⚙️ DevOps & SRE**     | Automação de CI/CD, IaC, observabilidade, containerização e orquestração                     |
-| **📊 Análise de Dados** | Extração de insights, otimização de queries SQL, análise de dados complexos                  |
-| **🔧 Problem Solving**  | Transformo desafios técnicos complexos em soluções elegantes e eficientes                    |
+| 💡 **Area**            | 🎯 **Expertise**                                                                     |
+| ---------------------- | ------------------------------------------------------------------------------------ |
+| **🎓 Leadership**      | Leading development teams focused on quality, collaboration, and continuous delivery |
+| **🏗️ Architecture**    | Designing scalable systems: microservices, RESTful APIs, modern web applications     |
+| **⚙️ DevOps & SRE**    | CI/CD automation, IaC, observability, containerization, and orchestration            |
+| **📊 Data Analysis**   | Extracting insights, SQL query optimization, complex data analysis                   |
+| **🔧 Problem Solving** | Transforming complex technical challenges into elegant and efficient solutions       |
 
 </div>
 
 ---
 
-## 🔄 Minha Rotina
+## 🔄 My Routine
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZrZnA0cXk1bjh5MTB2ZTR5YnNlcnNiZG02MHFrMzd3OXpoZDlxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9fuvOqZ8tbZOU/giphy.gif" width="100" alt="Comer"/>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZrZnA0cXk1bjh5MTB2ZTR5YnNlcnNiZG02MHFrMzd3OXpoZDlxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9fuvOqZ8tbZOU/giphy.gif" width="100" alt="Eat"/>
       <br><br>
-      <b>☕ COMER</b>
+      <b>☕ EAT</b>
       <br>
-      <sub>Energia para o próximo sprint</sub>
+      <sub>Fuel for the next sprint</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNhc2loZGh4dmw0Znl6Z2czOGJiMG4xNW9xMmpuaXFrN2ZiOTFtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rGznn87ld7o7S/giphy.gif" width="100" alt="Dormir"/>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNhc2loZGh4dmw0Znl6Z2czOGJiMG4xNW9xMmpuaXFrN2ZiOTFtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rGznn87ld7o7S/giphy.gif" width="100" alt="Sleep"/>
       <br><br>
-      <b>😴 DORMIR</b>
+      <b>😴 SLEEP</b>
       <br>
-      <sub>Debug mental necessário</sub>
+      <sub>Mental debugging required</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamc0ZTE1czM4cWhienRseWVhMzl6MjF3dmVmYXRoNW9wdzdsbGhoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTRuG1F4VZ3LHMpXY2/giphy.gif" width="100" alt="Codar"/>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamc0ZTE1czM4cWhienRseWVhMzl6MjF3dmVmYXRoNW9wdzdsbGhoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTRuG1F4VZ3LHMpXY2/giphy.gif" width="100" alt="Code"/>
       <br><br>
-      <b>💻 CODAR</b>
+      <b>💻 CODE</b>
       <br>
-      <sub>Onde a mágica acontece</sub>
+      <sub>Where the magic happens</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm15ZWdtc3c4aDMwOXdzYjh2a2ptdHpmYnZqbWZreTlpZXg1NnBtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FBRMZluqZxyUmbpIN0/giphy.gif" width="100" alt="Repetir"/>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm15ZWdtc3c4aDMwOXdzYjh2a2ptdHpmYnZqbWZreTlpZXg1NnBtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FBRMZluqZxyUmbpIN0/giphy.gif" width="100" alt="Repeat"/>
       <br><br>
-      <b>🔄 REPETIR</b>
+      <b>🔄 REPEAT</b>
       <br>
-      <sub>Loop infinito desde 20XX</sub>
+      <sub>Infinite loop since 20XX</sub>
     </td>
   </tr>
 </table>
@@ -148,7 +148,7 @@ Atuo desenvolvendo sistemas escaláveis, implementando pipelines de CI/CD e otim
 
 ---
 
-## 🏆 Conquistas
+## 🏆 Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pedro-canedo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
@@ -156,9 +156,9 @@ Atuo desenvolvendo sistemas escaláveis, implementando pipelines de CI/CD e otim
 
 ---
 
-## 📬 Vamos Conectar?
+## 📬 Let's Connect?
 
-Aberto para discutir tecnologia, trocar ideias ou colaborar em projetos.
+Open to discuss technology, exchange ideas, or collaborate on projects.
 
 <div align="center">
 
@@ -172,7 +172,7 @@ Aberto para discutir tecnologia, trocar ideias ou colaborar em projetos.
 
 ---
 
-## 💭 Frase do Dia
+## 💭 Quote of the Day
 
 <div align="center">
 
@@ -182,28 +182,28 @@ Aberto para discutir tecnologia, trocar ideias ou colaborar em projetos.
 
 ---
 
-## 🎯 Metas 2025
+## 🎯 2025 Goals
 
-- 🚀 Contribuir mais para projetos open-source
-- 📚 Aprofundar conhecimentos em Machine Learning & AI
-- 🎓 Mentorar desenvolvedores iniciantes
-- ⚡ Otimizar ainda mais os processos de DevOps
-- 🌟 Construir projetos que impactem vidas
+- 🚀 Contribute more to open-source projects
+- 📚 Deepen knowledge in Machine Learning & AI
+- 🎓 Mentor junior developers
+- ⚡ Further optimize DevOps processes
+- 🌟 Build projects that impact lives
 
 ---
 
 <div align="center">
 
-### ✨ Vamos Construir Algo Incrível Juntos!
+### ✨ Let's Build Something Amazing Together!
 
-**Tem uma ideia? Quer colaborar? Só me chamar!** 🚀
+**Got an idea? Want to collaborate? Just reach out!** 🚀
 
-![Visitor Count](https://komarev.com/ghpvc/?username=pedro-canedo&color=00f7ff&style=flat-square&label=Visitantes)
+![Visitor Count](https://komarev.com/ghpvc/?username=pedro-canedo&color=00f7ff&style=flat-square&label=Visitors)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-**💙 Obrigado pela visita!**
+**💙 Thanks for stopping by!**
 
-⭐ Se curtiu algum repo, deixa uma estrela.
+⭐ If you liked any repo, leave a star.
 
 </div>

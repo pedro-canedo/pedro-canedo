@@ -142,10 +142,6 @@ I develop scalable systems, implement CI/CD pipelines, and optimize development 
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedro-canedo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=pedro-canedo&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ## 🏆 Achievements

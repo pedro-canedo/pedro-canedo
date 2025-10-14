@@ -156,6 +156,128 @@ Atuo desenvolvendo sistemas escaláveis, implementando pipelines de CI/CD e otim
 
 ---
 
+## 💼 Experiência Profissional
+
+<details>
+<summary><b>Tech Lead | Montreal Oficial</b> · Fev 2025 - Atual</summary>
+<br>
+
+Atuo como Tech Lead, liderando equipes de desenvolvimento e definindo estratégias tecnológicas para a construção e manutenção de soluções escaláveis na nuvem Azure. Responsável por orientar arquiteturas de dados utilizando Data Lake, SQL Data Warehouse e Databricks, além da implementação e otimização de pipelines CI/CD com Azure DevOps.
+
+**Principais responsabilidades:**
+
+- Liderança técnica de equipes multidisciplinares
+- Definição de padrões de segurança de dados, criptografia e compliance
+- Desenvolvimento de soluções em Python e SQL
+- Automação de infraestrutura como código (IaC) com ARM Templates
+- Gestão de grandes volumes de dados (Hadoop, Spark, Kafka)
+- Expertise em bancos Oracle e NoSQL
+
+**Projeto:** DER-MG (Departamento de Estradas e Rodagem de Minas Gerais)
+
+</details>
+
+<details>
+<summary><b>Engenheiro de Software Sênior | DevOps Engineer | Montreal Oficial</b> · Set 2024 - Fev 2025</summary>
+<br>
+
+Desenvolvedor backend sênior com responsabilidades em DevOps, focado na construção e manutenção de soluções escaláveis e otimização de pipelines de dados em ambientes Azure.
+
+**Principais atividades:**
+
+- Implementação de pipelines CI/CD com Azure DevOps
+- Automação de infraestrutura como código (IaC) com ARM Templates
+- Desenvolvimento de soluções em Python e SQL
+- Arquitetura de dados com Data Lake, SQL Data Warehouse e Databricks
+- Big Data: Hadoop, Spark e Kafka
+- Segurança de dados, criptografia e conformidade
+
+</details>
+
+<details>
+<summary><b>Engenheiro de Software | MáximaTech</b> · Mai 2024 - Set 2024</summary>
+<br>
+
+Desenvolvedor de software com foco em backend (.NET Core, C#, ASP.NET) e frontend (Angular, React.js), trabalhando na manutenção e criação de sistemas para o mercado de atacado e varejo.
+
+**Tecnologias:** .NET Core, C#, ASP.NET, RabbitMQ, Docker, Oracle SQL, PostgreSQL, Angular, React.js, PWA
+
+</details>
+
+<details>
+<summary><b>Especialista DevOps | Conveste Serviços Financeiros</b> · Jul 2023 - Mai 2024</summary>
+<br>
+
+**Responsabilidades principais:**
+
+- Automação de CI/CD com Azure DevOps
+- Orquestração de contêineres com Kubernetes e Docker
+- Implementação de sistemas de logging personalizados
+- Contribuições em arquitetura de software e serviços cloud
+- Promoção de cultura DevOps e práticas ágeis
+
+</details>
+
+<details>
+<summary><b>Desenvolvedor Full Stack Pleno | DevOps | Conveste</b> · Jul 2022 - Jul 2023</summary>
+<br>
+
+Desenvolvedor Full Stack com expertise em DevOps, trabalhando com C#, .NET, JavaScript, Python, PHP, React, Material-UI, Next.js, FastAPI, Django, Kubernetes, Docker, Azure DevOps, Kafka, e bancos SQL Server e Oracle.
+
+**Competências:** Arquitetura de software, Domain-Driven Design, TDD, Clean Code, Scrum
+
+</details>
+
+<details>
+<summary><b>Desenvolvedor Full Stack | DevOps | Conveste</b> · Jan 2021 - Jul 2022</summary>
+<br>
+
+**Projetos de destaque:**
+
+- BI Analytics com Python, Apache Spark e Pandas
+- Implementação de Domain-Driven Design (DDD)
+- Integração com Apache Kafka e Azure Event Hub
+- Desenvolvimento Full-Stack com C# .NET Core e React.js
+
+</details>
+
+<details>
+<summary><b>Desenvolvedor | DevOps | H.Tech Consultoria</b> · Jan 2019 - Jan 2021 (Freelance)</summary>
+<br>
+
+- Implementação e gerenciamento de pipelines CI/CD com Azure DevOps
+- Desenvolvimento e manutenção de infraestrutura em Azure
+- Automação com ARM templates e Terraform
+- Monitoramento com Azure Monitor e Application Insights
+- Segurança e conformidade em ambientes cloud
+
+</details>
+
+---
+
+## 🎓 Formação Acadêmica
+
+**MBA em Engenharia de Software**  
+FAMEF · Out 2023 - Jan 2025
+
+- Ciclo de Vida de Software (Agile)
+- Engenharia de Requisitos
+- Arquitetura e Projeto de Software
+- Teste e Qualidade de Software
+- Gerenciamento de Projetos e Configuração
+- Governança de TI
+
+**Tecnologia em Análise e Desenvolvimento de Sistemas**  
+Pontifícia Universidade Católica de Goiás (PUC-GO) · Jan 2021 - Abr 2024
+
+- Algoritmos e Estruturas de Dados
+- Engenharia de Software
+- Segurança da Informação
+- Desenvolvimento Cliente/Servidor
+- Metodologias Ágeis
+
+---
+
 ## 📬 Vamos Conectar?
 
 Aberto para discutir tecnologia, trocar ideias ou colaborar em projetos.

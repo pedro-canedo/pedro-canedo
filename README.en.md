@@ -156,6 +156,128 @@ I develop scalable systems, implement CI/CD pipelines, and optimize development 
 
 ---
 
+## 💼 Professional Experience
+
+<details>
+<summary><b>Tech Lead | Montreal Oficial</b> · Feb 2025 - Present</summary>
+<br>
+
+Acting as Tech Lead, leading development teams and defining technological strategies for building and maintaining scalable solutions in Azure cloud. Responsible for guiding data architectures using Data Lake, SQL Data Warehouse, and Databricks, as well as implementing and optimizing CI/CD pipelines with Azure DevOps.
+
+**Main responsibilities:**
+
+- Technical leadership of multidisciplinary teams
+- Definition of data security standards, encryption, and compliance
+- Development of solutions in Python and SQL
+- Infrastructure automation as code (IaC) with ARM Templates
+- Management of large data volumes (Hadoop, Spark, Kafka)
+- Expertise in Oracle and NoSQL databases
+
+**Project:** DER-MG (Department of Roads and Highways of Minas Gerais)
+
+</details>
+
+<details>
+<summary><b>Senior Software Engineer | DevOps Engineer | Montreal Oficial</b> · Sep 2024 - Feb 2025</summary>
+<br>
+
+Senior backend developer with DevOps responsibilities, focused on building and maintaining scalable solutions and optimizing data pipelines in Azure environments.
+
+**Main activities:**
+
+- Implementation of CI/CD pipelines with Azure DevOps
+- Infrastructure automation as code (IaC) with ARM Templates
+- Development of solutions in Python and SQL
+- Data architecture with Data Lake, SQL Data Warehouse, and Databricks
+- Big Data: Hadoop, Spark, and Kafka
+- Data security, encryption, and compliance
+
+</details>
+
+<details>
+<summary><b>Software Engineer | MáximaTech</b> · May 2024 - Sep 2024</summary>
+<br>
+
+Software developer focused on backend (.NET Core, C#, ASP.NET) and frontend (Angular, React.js), working on maintenance and creation of systems for wholesale and retail markets.
+
+**Technologies:** .NET Core, C#, ASP.NET, RabbitMQ, Docker, Oracle SQL, PostgreSQL, Angular, React.js, PWA
+
+</details>
+
+<details>
+<summary><b>DevOps Specialist | Conveste Serviços Financeiros</b> · Jul 2023 - May 2024</summary>
+<br>
+
+**Main responsibilities:**
+
+- CI/CD automation with Azure DevOps
+- Container orchestration with Kubernetes and Docker
+- Implementation of custom logging systems
+- Contributions to software architecture and cloud services
+- Promotion of DevOps culture and agile practices
+
+</details>
+
+<details>
+<summary><b>Mid-Level Full Stack Developer | DevOps | Conveste</b> · Jul 2022 - Jul 2023</summary>
+<br>
+
+Full Stack Developer with DevOps expertise, working with C#, .NET, JavaScript, Python, PHP, React, Material-UI, Next.js, FastAPI, Django, Kubernetes, Docker, Azure DevOps, Kafka, and SQL Server and Oracle databases.
+
+**Skills:** Software architecture, Domain-Driven Design, TDD, Clean Code, Scrum
+
+</details>
+
+<details>
+<summary><b>Full Stack Developer | DevOps | Conveste</b> · Jan 2021 - Jul 2022</summary>
+<br>
+
+**Featured projects:**
+
+- BI Analytics with Python, Apache Spark, and Pandas
+- Implementation of Domain-Driven Design (DDD)
+- Integration with Apache Kafka and Azure Event Hub
+- Full-Stack development with C# .NET Core and React.js
+
+</details>
+
+<details>
+<summary><b>Developer | DevOps | H.Tech Consultoria</b> · Jan 2019 - Jan 2021 (Freelance)</summary>
+<br>
+
+- Implementation and management of CI/CD pipelines with Azure DevOps
+- Development and maintenance of Azure infrastructure
+- Automation with ARM templates and Terraform
+- Monitoring with Azure Monitor and Application Insights
+- Security and compliance in cloud environments
+
+</details>
+
+---
+
+## 🎓 Education
+
+**MBA in Software Engineering**  
+FAMEF · Oct 2023 - Jan 2025
+
+- Software Life Cycle (Agile)
+- Requirements Engineering
+- Software Architecture and Design
+- Software Testing and Quality
+- Project and Configuration Management
+- IT Governance
+
+**Technology in Systems Analysis and Development**  
+Pontifical Catholic University of Goiás (PUC-GO) · Jan 2021 - Apr 2024
+
+- Algorithms and Data Structures
+- Software Engineering
+- Information Security
+- Client/Server Development
+- Agile Methodologies
+
+---
+
 ## 📬 Let's Connect?
 
 Open to discuss technology, exchange ideas, or collaborate on projects.

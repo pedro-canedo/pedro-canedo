@@ -142,8 +142,6 @@ Atuo desenvolvendo sistemas escaláveis, implementando pipelines de CI/CD e otim
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedro-canedo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pedro-canedo&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
-
 ---
 
 ## 🏆 Conquistas

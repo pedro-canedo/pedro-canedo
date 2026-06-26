@@ -2,7 +2,7 @@
 
 # 👨‍💻 Pedro Augusto Canedo Araujo Obalhe
 
-### Software Architect · Tech Lead · Cloud & Data Engineering · DevOps
+### Software Architect 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Software+Architect+%7C+Tech+Lead;Azure+%7C+Microsoft+Fabric+%7C+Data+Platforms;Backend+%7C+DevOps+%7C+Cloud-Native+Architecture;Building+scalable%2C+secure+and+observable+systems)](https://git.io/typing-svg)
 

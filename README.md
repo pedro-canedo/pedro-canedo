@@ -2,75 +2,92 @@
 
 # 👨‍💻 Pedro Augusto Canedo Araujo Obalhe
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Tech+Lead+%7C+Senior+Software+Engineer;DevOps+Engineer+%7C+Problem+Solver;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
+### Software Architect · Tech Lead · Cloud & Data Engineering · DevOps
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Software+Architect+%7C+Tech+Lead;Azure+%7C+Microsoft+Fabric+%7C+Data+Platforms;Backend+%7C+DevOps+%7C+Cloud-Native+Architecture;Building+scalable%2C+secure+and+observable+systems)](https://git.io/typing-svg)
 
-> _"Às vezes faço o que quero. Às vezes faço o que tenho que fazer."_  
-> _"Sometimes I do what I want. Sometimes I do what I have to do."_
-
-</div>
-
----
-
-<div align="right">
-
-**Language:**
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.md)
-[![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="760">
 
 </div>
 
 ---
-
-## 🌟 Sobre Mim
-
-Tech Lead e DevOps Engineer com experiência em arquitetura de sistemas, liderança de equipes e automação de processos. Trabalho principalmente com Python, JavaScript/TypeScript e Go, focando em soluções backend, cloud infrastructure e análise de dados.
-
-Atuo desenvolvendo sistemas escaláveis, implementando pipelines de CI/CD e otimizando workflows de desenvolvimento. Experiência prática com Azure, Docker, Kubernetes e ferramentas de observabilidade.
-
----
-
-## 🛠️ Stack Tecnológico
 
 <div align="center">
 
-### 💻 Linguagens & Frameworks
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Canedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrobalhe/)
+[![Gmail](https://img.shields.io/badge/Email-devpedrocanedo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpedrocanedo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-pedr0balhe-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedr0balhe/)
+[![Profile Views](https://komarev.com/ghpvc/?username=pedro-canedo&color=00f7ff&style=for-the-badge&label=Profile+Views)](https://github.com/pedro-canedo)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+Sou **Arquiteto de Software e Tech Lead**, com atuação estratégica e hands-on em arquitetura corporativa, plataformas de dados, cloud engineering, backend, DevOps e modernização de sistemas críticos.
+
+Atuo na definição de diretrizes arquiteturais, evolução de aplicações distribuídas, governança de soluções em nuvem, automação de infraestrutura, pipelines CI/CD, integração entre sistemas legados e modernos, além da construção de plataformas de dados escaláveis com foco em segurança, rastreabilidade, observabilidade e eficiência operacional.
+
+Minha missão é conectar **negócio, engenharia e arquitetura** para transformar problemas complexos em soluções robustas, sustentáveis e preparadas para crescimento.
+
+---
+
+## 🧭 What I Do
+
+<div align="center">
+
+| Área | Atuação |
+| --- | --- |
+| 🏗️ **Software Architecture** | Arquitetura corporativa, sistemas distribuídos, APIs, microsserviços, integração entre plataformas e modernização de legados |
+| ☁️ **Cloud Engineering** | Soluções cloud-native em Azure, governança, segurança, escalabilidade, observabilidade e automação |
+| 📊 **Data Engineering** | Data Lakes, Lakehouses, pipelines, Spark, ingestão de dados, processamento distribuído e governança |
+| ⚙️ **DevOps & Platform Engineering** | CI/CD, IaC, containers, Kubernetes, automação de deploys, monitoramento e práticas de operação |
+| 👥 **Technical Leadership** | Liderança técnica, mentoria, revisão arquitetural, definição de padrões e apoio à tomada de decisão |
+| 🔐 **Governance & Security** | DevSecOps, compliance, controle de acesso, rastreabilidade, qualidade e confiabilidade de software |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### Cloud, Data & DevOps
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-7F52FF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AKS](https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ARM Templates](https://img.shields.io/badge/ARM%20Templates-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 🗄️ Databases & Data
+### Databases & Observability
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🔧 Ferramentas & Outros
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
@@ -78,250 +95,206 @@ Atuo desenvolvendo sistemas escaláveis, implementando pipelines de CI/CD e otim
 
 ---
 
-## 🚀 O Que Eu Faço
+## 🧩 Architecture Focus
 
-<div align="center">
-
-| 💡 **Área**             | 🎯 **Expertise**                                                                             |
-| ----------------------- | -------------------------------------------------------------------------------------------- |
-| **🎓 Liderança**        | Guio times de desenvolvimento com foco em qualidade, colaboração e entrega contínua de valor |
-| **🏗️ Arquitetura**      | Projeto sistemas escaláveis: microservices, APIs RESTful, aplicações web modernas            |
-| **⚙️ DevOps & SRE**     | Automação de CI/CD, IaC, observabilidade, containerização e orquestração                     |
-| **📊 Análise de Dados** | Extração de insights, otimização de queries SQL, análise de dados complexos                  |
-| **🔧 Problem Solving**  | Transformo desafios técnicos complexos em soluções elegantes e eficientes                    |
-
-</div>
+```mermaid
+flowchart LR
+    A[Business Needs] --> B[Architecture Strategy]
+    B --> C[Cloud-Native Systems]
+    B --> D[Data Platforms]
+    B --> E[DevOps & Automation]
+    C --> F[Secure APIs & Distributed Applications]
+    D --> G[Lakehouses, Pipelines & Governance]
+    E --> H[CI/CD, IaC, Observability]
+    F --> I[Scalable Products]
+    G --> I
+    H --> I
+```
 
 ---
 
-## 🔄 Minha Rotina
+## 💼 Professional Experience
 
-<div align="center">
+<details open>
+<summary><b>Software Architect · Montreal Oficial</b> · Jun 2026 - Present</summary>
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZrZnA0cXk1bjh5MTB2ZTR5YnNlcnNiZG02MHFrMzd3OXpoZDlxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9fuvOqZ8tbZOU/giphy.gif" width="100" alt="Comer"/>
-      <br><br>
-      <b>☕ COMER</b>
-      <br>
-      <sub>Energia para o próximo sprint</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNhc2loZGh4dmw0Znl6Z2czOGJiMG4xNW9xMmpuaXFrN2ZiOTFtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rGznn87ld7o7S/giphy.gif" width="100" alt="Dormir"/>
-      <br><br>
-      <b>😴 DORMIR</b>
-      <br>
-      <sub>Debug mental necessário</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamc0ZTE1czM4cWhienRseWVhMzl6MjF3dmVmYXRoNW9wdzdsbGhoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTRuG1F4VZ3LHMpXY2/giphy.gif" width="100" alt="Codar"/>
-      <br><br>
-      <b>💻 CODAR</b>
-      <br>
-      <sub>Onde a mágica acontece</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm15ZWdtc3c4aDMwOXdzYjh2a2ptdHpmYnZqbWZreTlpZXg1NnBtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FBRMZluqZxyUmbpIN0/giphy.gif" width="100" alt="Repetir"/>
-      <br><br>
-      <b>🔄 REPETIR</b>
-      <br>
-      <sub>Loop infinito desde 20XX</sub>
-    </td>
-  </tr>
-</table>
+<br>
 
-</div>
+Atuação como Arquiteto de Software na definição e evolução de arquiteturas corporativas para ambientes de nuvem, dados e aplicações críticas.
+
+**Key responsibilities:**
+
+- Definição de arquiteturas corporativas para aplicações distribuídas, plataformas de dados e soluções cloud-native.
+- Liderança técnica de times multidisciplinares de Engenharia de Software, Dados, Cloud e DevOps.
+- Arquitetura e governança de soluções utilizando Microsoft Azure, Microsoft Fabric e ecossistemas de dados em larga escala.
+- Definição de padrões de desenvolvimento, integração, segurança, observabilidade e qualidade de software.
+- Revisão arquitetural de iniciativas estratégicas e apoio à tomada de decisões tecnológicas.
+- Governança de ambientes cloud, automação de infraestrutura e pipelines CI/CD.
+- Aplicação de práticas de DevSecOps, FinOps, arquitetura orientada a eventos e engenharia de plataformas.
+- Modernização de sistemas legados, evolução tecnológica e definição de roadmaps arquiteturais.
+
+</details>
+
+<details>
+<summary><b>Tech Lead · Montreal Oficial</b> · Feb 2025 - Jun 2026</summary>
+
+<br>
+
+Liderança técnica de equipes multidisciplinares, com foco em arquitetura, dados, cloud, backend, DevOps e modernização de sistemas corporativos.
+
+**Key responsibilities:**
+
+- Arquitetura e implantação de plataformas de dados em cloud.
+- Construção de Data Lakes, Lakehouses, pipelines de ingestão e processamento com Spark.
+- Integração de múltiplas fontes estruturadas, semiestruturadas e não estruturadas.
+- Modernização de sistemas corporativos, aplicações web e mobile.
+- Desenvolvimento e governança de APIs corporativas e integrações com sistemas legados.
+- Automação de deploys, CI/CD, infraestrutura como código, containers e Kubernetes.
+- Boas práticas de governança, compliance, segurança, rastreabilidade e observabilidade.
+
+</details>
+
+<details>
+<summary><b>Senior Software Engineer · DevOps Engineer · Montreal Oficial</b> · Sep 2024 - Feb 2025</summary>
+
+<br>
+
+Atuação como engenheiro backend sênior com responsabilidades em DevOps, focado em soluções escaláveis, pipelines de dados e ambientes cloud.
+
+**Key responsibilities:**
+
+- Desenvolvimento backend com Python, SQL e integrações corporativas.
+- Implementação de pipelines CI/CD com Azure DevOps.
+- Automação de infraestrutura como código com ARM Templates.
+- Arquitetura de dados com Data Lake, SQL Data Warehouse e Databricks.
+- Experiência com Big Data, incluindo Hadoop, Spark e Kafka.
+- Segurança de dados, criptografia, privacidade e conformidade.
+- Atuação com bancos relacionais, bancos não relacionais e fontes de dados heterogêneas.
+
+</details>
+
+<details>
+<summary><b>Software Engineer · MáximaTech</b> · May 2024 - Sep 2024</summary>
+
+<br>
+
+Desenvolvimento de soluções backend e frontend para sistemas corporativos, atuando em manutenção, evolução e criação de novas funcionalidades.
+
+**Tech stack:** .NET Core, C#, ASP.NET, RabbitMQ, Docker, Oracle SQL, PostgreSQL, Angular, React.js, PWA.
+
+</details>
+
+<details>
+<summary><b>DevOps Specialist · Conveste Serviços Financeiros</b> · Jul 2023 - May 2024</summary>
+
+<br>
+
+Atuação em automação, infraestrutura, cloud, observabilidade e melhoria contínua de processos de engenharia.
+
+**Key responsibilities:**
+
+- Automação de CI/CD com Azure DevOps.
+- Orquestração de containers com Kubernetes e Docker.
+- Implementação de logging, monitoramento e práticas de observabilidade.
+- Contribuições em arquitetura de software e cloud engineering.
+- Promoção de cultura DevOps, colaboração e práticas ágeis.
+
+</details>
+
+<details>
+<summary><b>Full Stack Developer · DevOps · Conveste</b> · Jan 2021 - Jul 2023</summary>
+
+<br>
+
+Atuação full stack com forte envolvimento em DevOps, arquitetura, integração de sistemas, dados e automação.
+
+**Tech stack:** C#, .NET, JavaScript, Python, PHP, React, Material UI, Next.js, FastAPI, Django, Kubernetes, Docker, Azure DevOps, Kafka, SQL Server e Oracle.
+
+**Engineering practices:** DDD, TDD, Clean Code, Scrum, APIs, integração entre sistemas e arquitetura orientada a eventos.
+
+</details>
+
+<details>
+<summary><b>Developer · DevOps · H.Tech Consultoria</b> · Jan 2019 - Jan 2021</summary>
+
+<br>
+
+Atuação em desenvolvimento, cloud, automação de infraestrutura e implantação de ambientes com foco em confiabilidade e eficiência operacional.
+
+**Key responsibilities:**
+
+- Pipelines CI/CD com Azure DevOps.
+- Infraestrutura em Azure.
+- Automação com ARM Templates e Terraform.
+- Monitoramento com Azure Monitor e Application Insights.
+- Segurança e conformidade em ambientes cloud.
+
+</details>
+
+---
+
+## 🎓 Education
+
+**MBA em Engenharia de Software**  
+FAMEF · Oct 2023 - Jan 2025
+
+**Tecnologia em Análise e Desenvolvimento de Sistemas**  
+Pontifícia Universidade Católica de Goiás · Jan 2021 - Apr 2024
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedro-canedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedro-canedo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
-</div>
 
----
-
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedro-canedo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
-</div>
-
----
-
-## 💼 Experiência Profissional
-
-<details>
-<summary><b>Tech Lead | Montreal Oficial</b> · Fev 2025 - Atual</summary>
-<br>
-
-Atuo como Tech Lead, liderando equipes de desenvolvimento e definindo estratégias tecnológicas para a construção e manutenção de soluções escaláveis na nuvem Azure. Responsável por orientar arquiteturas de dados utilizando Data Lake, SQL Data Warehouse e Databricks, além da implementação e otimização de pipelines CI/CD com Azure DevOps.
-
-**Principais responsabilidades:**
-
-- Liderança técnica de equipes multidisciplinares
-- Definição de padrões de segurança de dados, criptografia e compliance
-- Desenvolvimento de soluções em Python e SQL
-- Automação de infraestrutura como código (IaC) com ARM Templates
-- Gestão de grandes volumes de dados (Hadoop, Spark, Kafka)
-- Expertise em bancos Oracle e NoSQL
-
-**Projeto:** DER-MG (Departamento de Estradas e Rodagem de Minas Gerais)
-
-</details>
-
-<details>
-<summary><b>Engenheiro de Software Sênior | DevOps Engineer | Montreal Oficial</b> · Set 2024 - Fev 2025</summary>
-<br>
-
-Desenvolvedor backend sênior com responsabilidades em DevOps, focado na construção e manutenção de soluções escaláveis e otimização de pipelines de dados em ambientes Azure.
-
-**Principais atividades:**
-
-- Implementação de pipelines CI/CD com Azure DevOps
-- Automação de infraestrutura como código (IaC) com ARM Templates
-- Desenvolvimento de soluções em Python e SQL
-- Arquitetura de dados com Data Lake, SQL Data Warehouse e Databricks
-- Big Data: Hadoop, Spark e Kafka
-- Segurança de dados, criptografia e conformidade
-
-</details>
-
-<details>
-<summary><b>Engenheiro de Software | MáximaTech</b> · Mai 2024 - Set 2024</summary>
-<br>
-
-Desenvolvedor de software com foco em backend (.NET Core, C#, ASP.NET) e frontend (Angular, React.js), trabalhando na manutenção e criação de sistemas para o mercado de atacado e varejo.
-
-**Tecnologias:** .NET Core, C#, ASP.NET, RabbitMQ, Docker, Oracle SQL, PostgreSQL, Angular, React.js, PWA
-
-</details>
-
-<details>
-<summary><b>Especialista DevOps | Conveste Serviços Financeiros</b> · Jul 2023 - Mai 2024</summary>
-<br>
-
-**Responsabilidades principais:**
-
-- Automação de CI/CD com Azure DevOps
-- Orquestração de contêineres com Kubernetes e Docker
-- Implementação de sistemas de logging personalizados
-- Contribuições em arquitetura de software e serviços cloud
-- Promoção de cultura DevOps e práticas ágeis
-
-</details>
-
-<details>
-<summary><b>Desenvolvedor Full Stack Pleno | DevOps | Conveste</b> · Jul 2022 - Jul 2023</summary>
-<br>
-
-Desenvolvedor Full Stack com expertise em DevOps, trabalhando com C#, .NET, JavaScript, Python, PHP, React, Material-UI, Next.js, FastAPI, Django, Kubernetes, Docker, Azure DevOps, Kafka, e bancos SQL Server e Oracle.
-
-**Competências:** Arquitetura de software, Domain-Driven Design, TDD, Clean Code, Scrum
-
-</details>
-
-<details>
-<summary><b>Desenvolvedor Full Stack | DevOps | Conveste</b> · Jan 2021 - Jul 2022</summary>
-<br>
-
-**Projetos de destaque:**
-
-- BI Analytics com Python, Apache Spark e Pandas
-- Implementação de Domain-Driven Design (DDD)
-- Integração com Apache Kafka e Azure Event Hub
-- Desenvolvimento Full-Stack com C# .NET Core e React.js
-
-</details>
-
-<details>
-<summary><b>Desenvolvedor | DevOps | H.Tech Consultoria</b> · Jan 2019 - Jan 2021 (Freelance)</summary>
-<br>
-
-- Implementação e gerenciamento de pipelines CI/CD com Azure DevOps
-- Desenvolvimento e manutenção de infraestrutura em Azure
-- Automação com ARM templates e Terraform
-- Monitoramento com Azure Monitor e Application Insights
-- Segurança e conformidade em ambientes cloud
-
-</details>
-
----
-
-## 🎓 Formação Acadêmica
-
-**MBA em Engenharia de Software**  
-FAMEF · Out 2023 - Jan 2025
-
-- Ciclo de Vida de Software (Agile)
-- Engenharia de Requisitos
-- Arquitetura e Projeto de Software
-- Teste e Qualidade de Software
-- Gerenciamento de Projetos e Configuração
-- Governança de TI
-
-**Tecnologia em Análise e Desenvolvimento de Sistemas**  
-Pontifícia Universidade Católica de Goiás (PUC-GO) · Jan 2021 - Abr 2024
-
-- Algoritmos e Estruturas de Dados
-- Engenharia de Software
-- Segurança da Informação
-- Desenvolvimento Cliente/Servidor
-- Metodologias Ágeis
-
----
-
-## 📬 Vamos Conectar?
-
-Aberto para discutir tecnologia, trocar ideias ou colaborar em projetos.
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pedr0balhe/)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/ellaotv)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/r9Te9e8a)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpedrocanedo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrobalhe/)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-canedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-canedo&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
 
 </div>
 
 ---
 
-## 💭 Frase do Dia
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://github-profile-trophy.vercel.app/?username=pedro-canedo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-## 🎯 Metas 2025
+## 🎯 Current Focus
 
-- 🚀 Contribuir mais para projetos open-source
-- 📚 Aprofundar conhecimentos em Machine Learning & AI
-- 🎓 Mentorar desenvolvedores iniciantes
-- ⚡ Otimizar ainda mais os processos de DevOps
-- 🌟 Construir projetos que impactem vidas
+- Arquitetura de software corporativa e modernização de sistemas críticos.
+- Plataformas de dados com Azure, Microsoft Fabric, Spark e Lakehouse Architecture.
+- Cloud-native applications, Kubernetes, CI/CD, IaC e observabilidade.
+- DevSecOps, FinOps, governança, compliance e segurança de dados.
+- Inteligência Artificial aplicada, RAG, automação e ferramentas para desenvolvedores.
+- Open-source, engenharia de plataformas e soluções escaláveis.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Aberto para trocar ideias sobre arquitetura, cloud, dados, DevOps, IA aplicada e engenharia de software.**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrobalhe/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpedrocanedo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-pedro--canedo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedro-canedo)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ Vamos Construir Algo Incrível Juntos!
-
-**Tem uma ideia? Quer colaborar? Só me chamar!** 🚀
-
-![Visitor Count](https://komarev.com/ghpvc/?username=pedro-canedo&color=00f7ff&style=flat-square&label=Visitantes)
+### ⚡ Building scalable systems. Leading technical decisions. Turning complexity into architecture.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-**💙 Obrigado pela visita!**
-
-⭐ Se curtiu algum repo, deixa uma estrela.
 
 </div>

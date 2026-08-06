@@ -46,8 +46,8 @@ Sou **Arquiteto de Software e Tech Lead**, com atuação estratégica e hands-on
 ### Languages & Backend
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,go,cs,dotnet,nodejs,fastapi&theme=dark">
-  <img alt="Languages & Backend" src="https://skillicons.dev/icons?i=py,ts,js,go,cs,dotnet,nodejs,fastapi&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cs,rust,nodejs,dotnet,fastapi,ts,js&theme=dark">
+  <img alt="Languages & Backend" src="https://skillicons.dev/icons?i=py,cs,rust,nodejs,dotnet,fastapi,ts,js&theme=light">
 </picture>
 
 ### Cloud & DevOps

@@ -178,13 +178,13 @@ Pontifícia Universidade Católica de Goiás · Jan 2021 - Apr 2024
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedro-canedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-canedo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=pedro-canedo&theme=tokyonight&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D"/>
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedro-canedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedro-canedo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
+<img height="165em" src="https://streak-stats.demolab.com?user=pedro-canedo&theme=tokyonight&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D"/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedro-canedo&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=pedro-canedo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy-nu.vercel.app/?username=pedro-canedo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 
 </div>
 

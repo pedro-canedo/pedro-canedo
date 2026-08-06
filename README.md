@@ -46,16 +46,27 @@ Sou **Arquiteto de Software e Tech Lead**, com atuação estratégica e hands-on
 ### Languages & Backend
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cs,rust,nodejs,dotnet,fastapi,ts,js&theme=dark">
-  <img alt="Languages & Backend" src="https://skillicons.dev/icons?i=py,cs,rust,nodejs,dotnet,fastapi,ts,js&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cs,rust,php,nodejs,dotnet,fastapi,django,ts,js&theme=dark">
+  <img alt="Languages & Backend" src="https://skillicons.dev/icons?i=py,cs,rust,php,nodejs,dotnet,fastapi,django,ts,js&theme=light">
+</picture>
+
+### Frontend
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,angular,nextjs,vue,html,css&theme=dark">
+  <img alt="Frontend" src="https://skillicons.dev/icons?i=react,angular,nextjs,vue,html,css&theme=light">
 </picture>
 
 ### Cloud & DevOps
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform&theme=dark">
-  <img alt="Cloud & DevOps" src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,rabbitmq&theme=dark">
+  <img alt="Cloud & DevOps" src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,rabbitmq&theme=light">
 </picture>
+
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![ARM Templates](https://img.shields.io/badge/ARM%20Templates-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Data Platforms
 
@@ -63,7 +74,7 @@ Sou **Arquiteto de Software e Tech Lead**, com atuação estratégica e hands-on
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
 ### Databases & Observability
 
@@ -71,6 +82,9 @@ Sou **Arquiteto de Software e Tech Lead**, com atuação estratégica e hands-on
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,grafana,prometheus&theme=dark">
   <img alt="Databases & Observability" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,grafana,prometheus&theme=light">
 </picture>
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
 

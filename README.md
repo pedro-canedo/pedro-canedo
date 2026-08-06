@@ -185,7 +185,6 @@ FAMEF · Oct 2023 - Jan 2025
 
 **Tecnologia em Análise e Desenvolvimento de Sistemas**
 Pontifícia Universidade Católica de Goiás · Jan 2021 - Apr 2024
-
 ---
 
 ## 📊 GitHub Analytics

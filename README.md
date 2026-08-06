@@ -76,34 +76,6 @@ Sou **Arquiteto de Software e Tech Lead**, com atuação estratégica e hands-on
 
 ---
 
-## 🧩 Architecture Focus
-
-```mermaid
-flowchart LR
-    A[Business Needs] --> B[Architecture Strategy]
-    B --> C[Cloud-Native Systems]
-    B --> D[Data Platforms]
-    B --> E[DevOps & Automation]
-    C --> F[Secure APIs & Distributed Applications]
-    D --> G[Lakehouses, Pipelines & Governance]
-    E --> H[CI/CD, IaC, Observability]
-    F --> I[Scalable Products]
-    G --> I
-    H --> I
-```
-
----
-
-## 📌 Featured Projects
-
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| [projeto-1](https://github.com/pedro-canedo) | breve descrição do impacto | Python · Azure · Spark |
-| [projeto-2](https://github.com/pedro-canedo) | breve descrição do impacto | TypeScript · K8s · Terraform |
-| [projeto-3](https://github.com/pedro-canedo) | breve descrição do impacto | .NET · PostgreSQL · Docker |
-
----
-
 ## 💼 Professional Experience
 
 <details open>

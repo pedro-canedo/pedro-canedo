@@ -45,24 +45,18 @@ Sou **Arquiteto de Software e Tech Lead**, com atuação estratégica e hands-on
 
 ### Languages & Backend
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cs,rust,php,nodejs,dotnet,fastapi,django,ts,js&theme=dark">
-  <img alt="Languages & Backend" src="https://skillicons.dev/icons?i=py,cs,rust,php,nodejs,dotnet,fastapi,django,ts,js&theme=light">
-</picture>
+<img src="https://skillicons.dev/icons?i=py,cs,rust,php,nodejs,dotnet,fastapi,django,ts,js&theme=dark#gh-dark-mode-only" alt="Languages & Backend">
+<img src="https://skillicons.dev/icons?i=py,cs,rust,php,nodejs,dotnet,fastapi,django,ts,js&theme=light#gh-light-mode-only" alt="Languages & Backend">
 
 ### Frontend
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,angular,nextjs,vue,html,css&theme=dark">
-  <img alt="Frontend" src="https://skillicons.dev/icons?i=react,angular,nextjs,vue,html,css&theme=light">
-</picture>
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,vue,html,css&theme=dark#gh-dark-mode-only" alt="Frontend">
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,vue,html,css&theme=light#gh-light-mode-only" alt="Frontend">
 
 ### Cloud & DevOps
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,rabbitmq&theme=dark">
-  <img alt="Cloud & DevOps" src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,rabbitmq&theme=light">
-</picture>
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,rabbitmq&theme=dark#gh-dark-mode-only" alt="Cloud & DevOps">
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,rabbitmq&theme=light#gh-light-mode-only" alt="Cloud & DevOps">
 
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![ARM Templates](https://img.shields.io/badge/ARM%20Templates-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -78,10 +72,8 @@ Sou **Arquiteto de Software e Tech Lead**, com atuação estratégica e hands-on
 
 ### Databases & Observability
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,grafana,prometheus&theme=dark">
-  <img alt="Databases & Observability" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,grafana,prometheus&theme=light">
-</picture>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,grafana,prometheus&theme=dark#gh-dark-mode-only" alt="Databases & Observability">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,grafana,prometheus&theme=light#gh-light-mode-only" alt="Databases & Observability">
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -185,6 +177,7 @@ FAMEF · Oct 2023 - Jan 2025
 
 **Tecnologia em Análise e Desenvolvimento de Sistemas**
 Pontifícia Universidade Católica de Goiás · Jan 2021 - Apr 2024
+
 ---
 
 ## 📊 GitHub Analytics

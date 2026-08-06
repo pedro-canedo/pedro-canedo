@@ -46,7 +46,6 @@ Sou **Arquiteto de Software e Tech Lead**, com atuação estratégica e hands-on
 ### Languages & Backend
 
 <img src="https://skillicons.dev/icons?i=py,cs,rust,php,nodejs,dotnet,fastapi,django,ts,js&theme=dark#gh-dark-mode-only" alt="Languages & Backend">
-<img src="https://skillicons.dev/icons?i=py,cs,rust,php,nodejs,dotnet,fastapi,django,ts,js&theme=light#gh-light-mode-only" alt="Languages & Backend">
 
 ### Frontend
 
